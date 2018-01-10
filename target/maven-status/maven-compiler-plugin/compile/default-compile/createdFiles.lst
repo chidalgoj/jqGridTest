@@ -1,0 +1,6 @@
+com\test\response\PeopleResponse.class
+com\test\bo\CargoConfirmacion.class
+com\test\command\PeopleCommand.class
+com\test\controller\CargosController.class
+com\test\AppConfig.class
+com\test\bo\People.class

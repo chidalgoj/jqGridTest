@@ -1,0 +1,157 @@
+#listaConfirmacionLabel{
+	font-family: sans-serif;
+	font-size: medium;
+	font-style: oblique;
+	top:-5px;
+}
+#tipoAclaracionDiv{
+	position:relative; 
+	left:-200px;
+	top:-5px;
+} 
+#comentarios 
+{
+	position:relative; 
+	left:160px;
+	top: 10px;
+} 
+#contacto
+{
+	position:relative; 
+	left:160px;
+	top: 10px;
+}  
+#aceptar
+{ 
+	position:relative;
+	left:160px; 
+	top: 10px;
+} 
+
+#quinientos{
+	position:relative;
+	left:50px; 
+	top: 10px;
+}
+#doscientos{
+	position:relative;
+	left:50px; 
+	top: 15px;
+}
+#cien{
+	position:relative;
+	left:50px; 
+	top: 20px;
+}
+#cincuenta{
+	position:relative;
+	left:140px; 
+	top: 10px;
+}
+#veinte{
+	position:relative;
+	left:140px; 
+	top: 15px;
+}
+
+#quinientosLabel{
+	position:relative;
+	left:40px; 
+	top: 10px;
+}
+#doscientosLabel{
+	position:relative;
+	left:40px; 
+	top: 15px;
+}
+#cienLabel{
+	position:relative;
+	left:40px; 
+	top: 20px;
+}
+#cincuentaLabel{
+	position:relative;
+	left:130px; 
+	top: 10px;
+}
+#veinteLabel{
+	position:relative;
+	left:130px; 
+	top: 15px;
+}
+
+#labelBilletes1{
+	position:relative; 
+	top: 5px;
+}
+
+#labelCantidad1{
+	position:relative;
+	left:10px; 
+	top: 5px;
+}
+
+#labelBilletes2{
+	position:relative;
+	left:42px; 
+	top: 5px; 
+}
+
+#labelCantidad2{
+	position:relative;
+	left:52px; 
+	top: 5px;
+}
+
+#fax{
+	position:relative;  
+	left:26px; 
+}
+#email{
+	position:relative;  
+	left:11px;
+}
+
+#respuestaValueCaso{
+	position:relative;  
+	left:20px;
+	font-weight:bold;
+}
+#respuestaLabelCaso{
+	position:relative;  
+	left:10px;
+	font-weight:bold;
+}
+
+#respuestaLabelYaExiste{
+	position:relative;  
+	left:10px;
+	font-weight:bold;
+}
+
+#respuestaFechaEntrega{
+	position:relative;  
+	left:10px;
+	top: 10px;
+	width: 170px;
+    display: inline-block;
+} 
+
+
+#respuestaTablaDocumentos{
+	position:relative;  
+	left:200px;
+	top: -70px;
+	width: 270px; 
+	border: 1px solid black; 
+	
+}
+
+.tableHeader{
+	color: blue;
+}
+
+#listaConfirmacionCargosTable
+{
+	width: 100%;
+}
